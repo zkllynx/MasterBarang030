@@ -1,0 +1,10 @@
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\bin\Debug\MasterBarang030.exe.config
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\bin\Debug\MasterBarang030.exe
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\bin\Debug\MasterBarang030.pdb
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\obj\Debug\MasterBarang030.csprojAssemblyReference.cache
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\obj\Debug\MasterBarang030.masterbarang.resources
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\obj\Debug\MasterBarang030.Properties.Resources.resources
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\obj\Debug\MasterBarang030.csproj.GenerateResource.cache
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\obj\Debug\MasterBarang030.csproj.CoreCompileInputs.cache
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\obj\Debug\MasterBarang030.exe
+C:\Users\Wahdiat\source\repos\MasterBarang030\MasterBarang030\obj\Debug\MasterBarang030.pdb
